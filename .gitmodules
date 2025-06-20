@@ -1,3 +1,6 @@
 [submodule "C#"]
 	path = "C#"
 	url = https://github.com/asmaaelsayed55/C-sharp.git
+[submodule "C-sharp"]
+	path = C-sharp
+	url = https://github.com/asmaaelsayed55/C-sharp.git
